@@ -106,7 +106,7 @@ export default function SiteFooter() {
         </div>
 
         <div className="pt-6 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 text-xs text-slate-500">
-          <p>© {new Date().getFullYear()} {PROFILE.name}. All rights reserved.</p>
+          <p>© 2026 {PROFILE.name}. All rights reserved.</p>
           <p>Built with Next.js, TypeScript, and Tailwind CSS.</p>
         </div>
       </div>
